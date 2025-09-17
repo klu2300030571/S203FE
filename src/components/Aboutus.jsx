@@ -15,7 +15,7 @@ const AboutUs = () => {
       <Link to="/computers">
         <div className="about-item">        
           <img src="computers.jpeg" alt="Computers" />
-          <h3>Computers</h3>
+          <h3>Computer</h3>
           <p>Find the best computers for gaming, work, and personal use.</p>
         </div>
         </Link>
